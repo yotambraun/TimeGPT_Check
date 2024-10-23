@@ -1,0 +1,2 @@
+DATASETURL = 'https://raw.githubusercontent.com/Nixtla/transfer-learning-time-series/main/datasets/electricity-short.csv'
+DIRSAVEPLOTPATH = r"C:\Users\yotam\SDatta\timegpt\electricity_example\save_plot"

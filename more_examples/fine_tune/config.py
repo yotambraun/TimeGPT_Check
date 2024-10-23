@@ -1,0 +1,1 @@
+DIRSAVEPLOTPATH = r"C:\Users\yotam\code_projects\TimeGPT_Check\more_examples\fine_tune\save_plot"

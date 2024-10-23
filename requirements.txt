@@ -1,0 +1,5 @@
+nixtla>=0.5.1
+pandas
+matplotlib
+hierarchicalforecast
+numpy
