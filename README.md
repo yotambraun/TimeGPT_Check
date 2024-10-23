@@ -1,6 +1,6 @@
 # TimeGPT_Check
 
-Welcome to the **TimeGPT_Check** repository. This project utilizes [Nixtla's TimeGPT](https://github.com/Nixtla/nixtla) and [HierarchicalForecast](https://github.com/Nixtla/hierarchicalforecast) libraries for time series forecasting and anomaly detection. The aim of this project is to demonstrate how to work with state-of-the-art forecasting techniques and reconciliation methods on hierarchical time series data.
+Welcome to the **TimeGPT_Check** repository. This project utilizes [Nixtla's TimeGPT](https://github.com/Nixtla/nixtla) and [HierarchicalForecast](https://github.com/Nixtla/hierarchicalforecast) libraries for time series forecasting and anomaly detection. The aim of this project is to demonstrate how to work with TimeGPT time series data.
 
 ## Project Overview
 
