@@ -28,6 +28,14 @@ Reconciliation methods include:
   - **Bootstrap**: Generates reconciled predictions using bootstrap methods.
   - **PERMBU**: Reconciles sample predictions by reinjecting multivariate dependencies.
 
+## API Key Setup
+
+Before using TimeGPT, you need to sign up on the [Nixtla Platform](https://nixtla.io/) and obtain an API key. Follow these steps:
+
+1. Go to the [Nixtla sign-up page](https://nixtla.io/signup) and create an account.
+2. Once logged in, navigate to your dashboard and generate an API key.
+3. Save your API key securely.
+
 ## Experiments and Workflow
 
 The project is organized into several experiments, each focusing on different aspects of time series forecasting and reconciliation.
