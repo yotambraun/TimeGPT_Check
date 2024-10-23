@@ -32,7 +32,7 @@ Reconciliation methods include:
 
 Before using TimeGPT, you need to sign up on the [Nixtla Platform](https://nixtla.io/) and obtain an API key. Follow these steps:
 
-1. Go to the [Nixtla sign-up page](https://nixtla.io/signup) and create an account.
+1. Go to the [Nixtla api_keys page](https://dashboard.nixtla.io/api_keys) and create an account.
 2. Once logged in, navigate to your dashboard and generate an API key.
 3. Save your API key securely.
 
